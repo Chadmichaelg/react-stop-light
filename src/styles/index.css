@@ -17,6 +17,7 @@
     padding: 10px;
     margin: auto;
     justify-content: center;
+    transform: translate(200px,50px)
 }
 
 .light{
